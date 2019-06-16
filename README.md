@@ -3,7 +3,6 @@
 Um parágrafo da descrição do projeto vai aqui
 
 [![Github-Release](https://img.shields.io/github/release/filoe/cscore.svg)](https://github.com/filoe/cscore/releases)
-
 [![NuGet-Release](https://img.shields.io/nuget/v/CSCore.svg)](https://www.nuget.org/packages/CSCore/)
 
 ## Começando
@@ -76,9 +75,9 @@ Nós usamos [SemVer] (http://semver.org/) para controle de versão. Para as vers
 
 ## Amostras
 
-<img src=”https://github.com/dbader/readme-template/raw/master/header.png”>
+![](<img src=”https://github.com/dbader/readme-template/raw/master/header.png”>)
 
-<img src=”https://cdn-images-1.medium.com/max/800/1*Hh41cNKOLzJIK5Zo46dt-A.gif”>
+![](<img src=”https://cdn-images-1.medium.com/max/800/1*Hh41cNKOLzJIK5Zo46dt-A.gif”>)
 
 ## Exemplo de uso
 Alguns exemplos interessantes e úteis sobre como seu projeto pode ser utilizado. Adicione blocos de códigos e, se necessário, screenshots.
@@ -87,16 +86,16 @@ Para mais exemplos, consulte a Wiki.
 
 ## Autores
 
-* ** Billie Thompson ** - * Trabalho inicial * - [PurpleBooth] (https://github.com/PurpleBooth)
+Billie Thompson - * Trabalho inicial * - [PurpleBooth] (https://github.com/PurpleBooth)
 
 Veja também a lista de [contribuidores] (https://github.com/your/project/contributors) que participaram deste projeto.
 
-Licença ##
+## Licença
 
 Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md] (LICENSE.md) para obter detalhes
 
 ## Agradecimentos
 
-* Hat dica para qualquer pessoa cujo código foi usado
+* Qualquer pessoa cujo código foi usado
 * Inspiração
-* etc
+* etc..
