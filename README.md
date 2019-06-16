@@ -1,87 +1,87 @@
-# Project Title
+# Título do projeto
 
-One Paragraph of project description goes here
+Um parágrafo da descrição do projeto vai aqui
 
-## Getting Started
+## Começando
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Essas instruções farão com que você tenha uma cópia do projeto em execução na sua máquina local para fins de desenvolvimento e teste. Veja a implantação de notas sobre como implantar o projeto em um sistema ativo.
 
-### Prerequisites
+### Pré-requisitos
 
-What things you need to install the software and how to install them
+O que você precisa para instalar o software e instalá-lo
 
-```
-Give examples
-```
+`` `
+Dar exemplos
+`` `
 
-### Installing
+### Instalando
 
-A step by step series of examples that tell you how to get a development env running
+Uma série passo a passo de exemplos que informam como obter um env de desenvolvimento em execução
 
-Say what the step will be
+Diga qual será o passo
 
-```
-Give the example
-```
+`` `
+Dê o exemplo
+`` `
 
-And repeat
+E repita
 
-```
-until finished
-```
+`` `
+até terminar
+`` `
 
-End with an example of getting some data out of the system or using it for a little demo
+Termine com um exemplo de obter alguns dados do sistema ou usá-los para uma pequena demonstração
 
-## Running the tests
+## Rodando os testes
 
-Explain how to run the automated tests for this system
+Explicar como executar os testes automatizados para este sistema
 
-### Break down into end to end tests
+### Divida em testes de ponta a ponta
 
-Explain what these tests test and why
+Explique o que esses testes testam e por que
 
-```
-Give an example
-```
+`` `
+Dê um exemplo
+`` `
 
-### And coding style tests
+### E testes de estilo de codificação
 
-Explain what these tests test and why
+Explique o que esses testes testam e por que
 
-```
-Give an example
-```
+`` `
+Dê um exemplo
+`` `
 
-## Deployment
+## Desdobramento, desenvolvimento
 
-Add additional notes about how to deploy this on a live system
+Adicione notas adicionais sobre como implantar isso em um sistema ativo
 
-## Built With
+## construído com
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Dropwizard] (http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
+* [Maven] (https://maven.apache.org/) - Gerenciamento de Dependência
+* [ROMA] (https://rometools.github.io/rome/) - usado para gerar feeds RSS
 
-## Contributing
+## Contribuindo
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Leia [CONTRIBUTING.md] (https://gist.github.com/PurpleBooth/b24679402957c63ec426) para obter detalhes sobre nosso código de conduta e sobre o processo de envio de solicitações de recebimento para nós.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+Nós usamos [SemVer] (http://semver.org/) para controle de versão. Para as versões disponíveis, veja as [tags neste repositório] (https://github.com/your/project/tags).
 
-## Authors
+## Autores
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* ** Billie Thompson ** - * Trabalho inicial * - [PurpleBooth] (https://github.com/PurpleBooth)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+Veja também a lista de [contribuidores] (https://github.com/your/project/contributors) que participaram deste projeto.
 
-## License
+Licença ##
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md] (LICENSE.md) para obter detalhes
 
-## Acknowledgments
+## Agradecimentos
 
-* Hat tip to anyone whose code was used
-* Inspiration
+* Hat dica para qualquer pessoa cujo código foi usado
+* Inspiração
 * etc
