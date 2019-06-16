@@ -2,6 +2,10 @@
 
 Um parágrafo da descrição do projeto vai aqui
 
+[![Github-Release](https://img.shields.io/github/release/filoe/cscore.svg)](https://github.com/filoe/cscore/releases)
+
+[![NuGet-Release](https://img.shields.io/nuget/v/CSCore.svg)](https://www.nuget.org/packages/CSCore/)
+
 ## Começando
 
 Essas instruções farão com que você tenha uma cópia do projeto em execução na sua máquina local para fins de desenvolvimento e teste. Veja a implantação de notas sobre como implantar o projeto em um sistema ativo.
@@ -69,6 +73,17 @@ Leia [CONTRIBUTING.md] (https://gist.github.com/PurpleBooth/b24679402957c63ec426
 ## Versioning
 
 Nós usamos [SemVer] (http://semver.org/) para controle de versão. Para as versões disponíveis, veja as [tags neste repositório] (https://github.com/your/project/tags).
+
+## Amostras
+
+<img src=”https://github.com/dbader/readme-template/raw/master/header.png”>
+
+<img src=”https://cdn-images-1.medium.com/max/800/1*Hh41cNKOLzJIK5Zo46dt-A.gif”>
+
+## Exemplo de uso
+Alguns exemplos interessantes e úteis sobre como seu projeto pode ser utilizado. Adicione blocos de códigos e, se necessário, screenshots.
+
+Para mais exemplos, consulte a Wiki.
 
 ## Autores
 
