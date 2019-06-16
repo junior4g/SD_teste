@@ -14,7 +14,7 @@ Essas instruções farão com que você tenha uma cópia do projeto em execuçã
 O que você precisa para instalar o software e instalá-lo
 
 `` `
-Dar exemplos
+pip install paho-mqtt
 `` `
 
 ### Instalando
