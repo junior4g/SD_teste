@@ -77,7 +77,7 @@ Nós usamos [SemVer] (http://semver.org/) para controle de versão. Para as vers
 
 ![](<img src=”https://github.com/dbader/readme-template/raw/master/header.png”>)
 
-![](<img src=”https://cdn-images-1.medium.com/max/800/1*Hh41cNKOLzJIK5Zo46dt-A.gif”>)
+[![Github-Release](https://cdn-images-1.medium.com/max/800/1*Hh41cNKOLzJIK5Zo46dt-A.gif)](https://github.com/filoe/cscore/releases)
 
 ## Exemplo de uso
 Alguns exemplos interessantes e úteis sobre como seu projeto pode ser utilizado. Adicione blocos de códigos e, se necessário, screenshots.
