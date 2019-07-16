@@ -8,8 +8,3 @@ conn.hmset("pythonDict", user)
 conn.hgetall("pythonDict")
 
 {'Company': 'SCTL', 'Address': 'Mumbai', 'Location': 'RCP', 'Name': 'Pradeep'}
-
-
-mensagem = "48922"
-        
-print(mensagem[0])

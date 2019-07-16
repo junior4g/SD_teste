@@ -1,14 +1,11 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
 import socket
 import thread
 import sys
 import redis
 conn = redis.Redis('localhost')
 
-HOST = '192.168.1.107' # Endereco IP do Servidor
-PORT = 8000            # Porta que o Servidor esta
+HOST = '52.90.38.46' # Endereco IP do Servidor
+PORT = 5000            # Porta que o Servidor esta
 
 def conectado(con, cliente):
     print ('Conectado por', cliente)
@@ -19,8 +16,6 @@ def conectado(con, cliente):
         print (cliente, msg)
 
         ##################### Inicio operações com Redis #######################
-        mensagem = msg.decode()
-        
         operacao = int(mensagem[0])
 
         if operacao == 1:
