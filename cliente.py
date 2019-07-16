@@ -8,7 +8,7 @@ import os
 def cls():
     os.system('cls' if os.name=='nt' else 'clear')
 
-HOST = '52.90.38.46'     # Endereco IP do Servidor
+HOST = '18.205.150.118'     # Endereco IP do Servidor
 PORT = 8000            # Porta que o Servidor esta
 
 tcp = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
