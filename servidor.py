@@ -7,7 +7,7 @@ import sys
 import redis
 conn = redis.Redis('localhost')
 
-HOST = '3.221.247.180' # Endereco IP do Servidor
+HOST = '192.168.1.107' # Endereco IP do Servidor
 PORT = 8000            # Porta que o Servidor esta
 
 def conectado(con, cliente):
