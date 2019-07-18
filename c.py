@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
 #Packs
 import sys
 import paho.mqtt.client as mqtt
